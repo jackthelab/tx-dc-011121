@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "bulbasaur",
-      "likes": 14,
+      "likes": 15,
       "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/2.png",
       "comments": [
         "Lorem ipsum dolor sit amet.",
@@ -43,7 +43,7 @@
     {
       "id": 5,
       "name": "charmeleon",
-      "likes": 0,
+      "likes": 1,
       "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/5.png",
       "comments": [
         "Lorem ipsum dolor sit amet.",
@@ -86,7 +86,7 @@
     {
       "id": 9,
       "name": "blastoise",
-      "likes": 0,
+      "likes": 5,
       "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/9.png",
       "comments": [
         "Lorem ipsum dolor sit amet.",
